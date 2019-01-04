@@ -3,5 +3,13 @@
   "version": "1.0.0",
   "description": "Transform sentences to acronyms.",
   "main": "index.js",
-  "author": "Devin Herath <devdhera@gmail.com>"
+  "author": "Devin Herath <devdhera@gmail.com>",
+  "license": "MIT",
+  "repository": "devdhera/acronym",
+  "keywords": [
+    "acronym",
+    "npm",
+    "package",
+    "devdhera"
+  ]
 }
