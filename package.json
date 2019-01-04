@@ -1,6 +1,6 @@
 {
   "name": "@devdhera/acronym",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Transform sentences to acronyms.",
   "main": "index.js",
   "author": "Devin Herath <devdhera@gmail.com>",
