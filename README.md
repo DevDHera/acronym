@@ -9,7 +9,7 @@
     </a>
 </p>
 
-Simple Acronym generator for all the node lovers :heart:
+Simple Acronym generator for all the node lovers :heart:.
 
 ## How to Install
 
